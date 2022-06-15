@@ -3,7 +3,7 @@
   "description": "Redux example for notistack",
   "homepage": "https://www.iamhosseindhv.com/notistack",
   "repository": {
-    "url": "git+https://github.com/iamhosseindhv/notistack.git",
+    "url": "git+https://github.com/expdani/notistack.git",
     "type": "git"
   },
   "main": "src/index.js",
@@ -22,15 +22,15 @@
     "redux"
   ],
   "dependencies": {
-      "@emotion/react": "latest",
-      "@emotion/styled": "latest",
-      "@mui/material": "latest",
-      "notistack": "latest",
-      "react": "latest",
-      "react-dom": "latest",
-      "react-redux": "latest",
-      "react-scripts": "latest",
-      "redux": "latest"
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "notistack": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "latest",
+    "react-scripts": "latest",
+    "redux": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
